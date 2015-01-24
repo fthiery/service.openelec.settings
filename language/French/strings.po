@@ -802,7 +802,7 @@ msgstr "Partage automatique des lecteurs externes"
 
 msgctxt "#32300"
 msgid "Welcome to @DISTRONAME@"
-msgstr "Bienvenu sur @DISTRONAME@"
+msgstr "Bienvenue sur @DISTRONAME@"
 
 msgctxt "#32301"
 msgid "Welcome"
